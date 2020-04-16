@@ -1,4 +1,4 @@
-# This script does create a List of Lists and then "draw" a random path between two points.
+# This script does create a List of Lists and then "draws" a random path between two points.
 # it is meant to be a "Lightning"
 
 import random
